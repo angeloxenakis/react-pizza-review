@@ -1,0 +1,118 @@
+{
+  "pizzas": [
+    {
+      "id": 1,
+      "topping": "Plain",
+      "size": "Small",
+      "vegetarian": true
+    },
+    {
+      "id": 2,
+      "topping": "Pepperoni",
+      "size": "Small",
+      "vegetarian": false
+    },
+    {
+      "id": 3,
+      "topping": "Mushroom",
+      "size": "Small",
+      "vegetarian": true
+    },
+    {
+      "id": 4,
+      "topping": "Sausage",
+      "size": "Small",
+      "vegetarian": false
+    },
+    {
+      "id": 5,
+      "topping": "Bacon",
+      "size": "Medium",
+      "vegetarian": false
+    },
+    {
+      "id": 6,
+      "topping": "Spinach",
+      "size": "Medium",
+      "vegetarian": true
+    },
+    {
+      "id": 7,
+      "topping": "Black Olive",
+      "size": "Medium",
+      "vegetarian": true
+    },
+    {
+      "id": 8,
+      "topping": "Pineapple",
+      "size": "Medium",
+      "vegetarian": true
+    },
+    {
+      "id": 9,
+      "topping": "Salami",
+      "size": "Large",
+      "vegetarian": false
+    },
+    {
+      "id": 10,
+      "topping": "Chicken",
+      "size": "Large",
+      "vegetarian": true
+    },
+    {
+      "topping": "Popcorn",
+      "size": "Medium",
+      "vegetarian": "",
+      "id": 11
+    },
+    {
+      "topping": "Popcorn",
+      "size": "Medium",
+      "vegetarian": "Not Vegetarian",
+      "id": 12
+    },
+    {
+      "topping": "New zaa",
+      "size": "small",
+      "vegetarian": true,
+      "id": 13
+    },
+    {
+      "topping": "Shrimp",
+      "size": "small",
+      "vegetarian": "Not Vegetarian",
+      "id": 14
+    },
+    {
+      "topping": "New zaa!",
+      "size": "small",
+      "vegetarian": true,
+      "id": 15
+    },
+    {
+      "topping": "Apple",
+      "size": "small",
+      "vegetarian": true,
+      "id": 16
+    },
+    {
+      "topping": "Banana",
+      "size": "small",
+      "vegetarian": true,
+      "id": 17
+    },
+    {
+      "topping": "Yeet",
+      "size": "small",
+      "vegetarian": true,
+      "id": 18
+    },
+    {
+      "topping": "Yeet 2",
+      "size": "small",
+      "vegetarian": true,
+      "id": 19
+    }
+  ]
+}
